@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cat list 2.0</string>
+    <string name="cat_name">CAT NAME HERE</string>
+    <string name="img_desc">Cat breed image</string>
+    <string name="cat_origin_label">Origin</string>
+    <string name="cat_temperament_label">Temperament:</string>
+    <string name="cat_colors_label">Colors:</string>
+    <string name="cat_description_label">Description:</string>
+    <string name="img_line_desc">Just a line to separate rows.</string>
+    <string name="example_text">Example1, example2, example3</string>
+    <string name="go_back_button">Go to main screen</string>
+    <string name="description_example">The Siamese cat is a vocal and affectionate breed known for
+        its striking blue almond-shaped eyes. They are highly social and enjoy interactive play with
+        their human companions.
+    </string>
+</resources>
